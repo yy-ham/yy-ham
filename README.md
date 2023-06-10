@@ -20,7 +20,7 @@
 <hr/>
 
 <div>
-	<h2>📘 Project</h2>
+	<h2>💻 Project</h2>
 	<div>
 		<a>전국 여행자랑</a><br>
 		<a>POPCORN (팝콘)</a>
