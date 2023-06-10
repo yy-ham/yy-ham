@@ -14,13 +14,13 @@
 		<img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 		<br>
 		<img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-	</div>
+	</div
 </div>
 
 <hr/>
 
 <div>
-	<h2>💻 Project</h2>
+	<h2>📘 Project</h2>
 	<div>
 		<a>전국 여행자랑</a><br>
 		<a>POPCORN (팝콘)</a>
