@@ -2,7 +2,6 @@
 
 <div>
 	<h2>📚 Stacks</h2>
-	<hr/>
 	<div>
 		<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 		<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
@@ -15,6 +14,16 @@
 		<img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 		<br>
 		<img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+	</div>
+</div>
+
+<hr/>
+
+<div>
+	<h2>💻 Project</h2>
+	<div>
+		<a>전국 여행자랑</a>
+		<a>POPCORN (팝콘)</a>
 	</div>
 </div>
 
