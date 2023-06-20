@@ -22,8 +22,8 @@
 <div>
 	<h2>💻 Project</h2>
 	<div>
-		<a>전국 여행자랑</a><br>
-		<a>POPCORN (팝콘)</a>
+		<a href="https://github.com/yy-ham/Trip-Contest.git">전국 여행자랑</a><br>
+		<a href="https://github.com/yy-ham/Popcorn.git">POPCORN (팝콘)</a>
 	</div>
 </div>
 
