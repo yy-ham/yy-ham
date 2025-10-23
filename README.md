@@ -23,7 +23,7 @@
 	<h2>💻 Project</h2>
 	<div>
 		<ul>
-			<li><a href="https://github.com/yy-ham/cookaround.git">요리조리쿡</a> [2025.04.29 ~ 진행 중]</li>
+			<li><a href="https://github.com/yy-ham/cookaround">요리조리쿡</a> [2025.04.29 ~ 진행 중]</li>
 			<li><a href="https://github.com/yy-ham/Trip-Contest.git">전국여행자랑</a> [2023.02.15 ~ 2023.03.07]</li>
 			<li><a href="https://github.com/yy-ham/Popcorn.git">POPCORN 팝콘</a> [2022.11.18 ~ 2022.11.24]</li>
 		</ul>
